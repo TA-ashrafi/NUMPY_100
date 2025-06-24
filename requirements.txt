@@ -1,3 +1,5 @@
 numpy
 mdutils
 nbformat
+numpy
+nbformat
